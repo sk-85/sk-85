@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 I’m **Sonukumar**, a **Senior Site Reliability & Platform Engineer** working across distributed systems, Kubernetes operations, cloud infrastructure, and internal tooling using Python and FastAPI. My background spans Oracle PL/SQL engineering, backend systems, DevOps, and full SRE/platform engineering in regulated financial environments.
 
