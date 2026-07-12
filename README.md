@@ -32,7 +32,7 @@ sk-85/sk-85 is a ✨ special ✨ repository because its `README.md` appears on y
 
 ---
 
-### 👯 I’m looking to collaborate on …
+### I’m looking to collaborate on …
 
 - Platform automation
 - Kubernetes operations
@@ -77,9 +77,6 @@ It strengthened my practical understanding of distributed systems and SRE patter
 - Logistics and tracking  
 - Fraud detection  
 - Cloud automation pipelines  
-
-**Interview perception:**  
-> “This person understands reliability engineering and distributed systems.”
 
 ---
 
