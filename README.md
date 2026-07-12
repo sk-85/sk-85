@@ -40,13 +40,6 @@ sk-85/sk-85 is a ✨ special ✨ repository because its `README.md` appears on y
 - Internal tooling for SRE and platform teams
 
 ---
-
-### 🤔 I’m looking for help with …
-
-- Improving distributed systems reliability
-- Multi‑cluster communication patterns
-- Simplifying cloud guardrails for engineering teams
-
 ---
 
 ### 💬 Ask me about …
