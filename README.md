@@ -97,11 +97,6 @@ Only high‑level information can be shared publicly.
 
 ---
 
-### 😄 Pronouns:
-He/Him
-
----
-
 ### ⚡ Fun fact:
 
 I started my career as an **Oracle PL/SQL engineer**, and that foundation still shapes how I think about systems, data, and reliability.
